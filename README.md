@@ -6,4 +6,4 @@
 
 #### This was conducted with the purpose of determining if changes in climate- specifically, redesignations of the Plant Hardiness Zone which is calculated by lowest annual average temperature for a region- over the decade affected crop production in a meaningful way. 
 
-##### Data was collected from public sources
+##### **The full project brief can be found [here](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://images.careerfoundry.com/public/courses/data-immersion/A6/Data_Immersion_A6_Project_Brief.pdf).**
