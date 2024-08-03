@@ -1,4 +1,4 @@
-# PHZ_project
+# Plant Hardiness Zone Project
 
 ![Screenshot of a cornfield.](https://t3.ftcdn.net/jpg/02/61/04/68/360_F_261046848_ZjQ9yPn5J2Brttlmxhz2zRNKMlhuVA9u.jpg)
 
@@ -7,3 +7,19 @@
 #### This was conducted with the purpose of determining if changes in climate- specifically, redesignations of the Plant Hardiness Zone which is calculated by lowest annual average temperature for a region- over the decade affected crop production in a meaningful way. 
 
 _The full project brief can be found [here](https://images.careerfoundry.com/public/courses/data-immersion/A6/Data_Immersion_A6_Project_Brief.pdf)._
+
+## Tools
+
+The analysis for this project was conducted in Python Jupyter and MS Excel. Libraries used include:
+
+  - Pandas
+
+  - Numpy
+
+  - seaborn
+
+  - Matplotlib
+
+  - SciPy
+
+Visualizations were created in both Python and Tableau.
