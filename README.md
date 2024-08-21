@@ -7,13 +7,14 @@
 
 #### This is a repository of work for a project in which corn production and sales for locations across the USA were examined for the years 2012 and 2022 in relation to the location's Plant Hardiness Zone. 
 
-#### This was conducted with the purpose of determining if changes in climate- specifically, redesignations of the Plant Hardiness Zone which is calculated by lowest annual average temperature for a region- over the decade affected crop production in a meaningful way. 
+#### This project was conducted to dtermine if changes in climate have affected corn production in the US and if so how the effects can be mitigated in the future. 
 
 _The full project brief can be found [here](https://images.careerfoundry.com/public/courses/data-immersion/A6/Data_Immersion_A6_Project_Brief.pdf)._
 
 ## Tools
 
-The analysis for this project was conducted in Python Jupyter and MS Excel. Libraries used include:
+The analysis for this project was conducted in Python Jupyter and MS Excel. 
+Python Libraries used include:
 
   - Pandas
 
@@ -24,5 +25,7 @@ The analysis for this project was conducted in Python Jupyter and MS Excel. Libr
   - Matplotlib
 
   - SciPy
+
+  - 
 
 Visualizations were created in both Python and Tableau.
