@@ -6,7 +6,7 @@
 ### Info
 
 #### This is a repository of work for a project in which corn production and sales for locations across the USA were examined for the years 2012 and 2022 in relation to the location's Plant Hardiness Zone. 
-### _The Tableau storyboard presentation can be found [here](https://public.tableau.com/app/profile/noah.manneville/viz/ClimateMaizeProject/ClimateMaize)_
+### _The Tableau storyboard presentation can be found [here.](https://public.tableau.com/app/profile/noah.manneville/viz/ClimateMaizeProject/ClimateMaize)_
 
 #### This project was conducted to determine if changes in climate have affected corn production in the US and if so how the effects can be mitigated in the future. 
 
