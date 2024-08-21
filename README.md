@@ -26,6 +26,10 @@ Python Libraries used include:
 
   - SciPy
 
-  - 
+  - sklearn
 
 Visualizations were created in both Python and Tableau.
+
+## Deliverables
+
+The Tableau story presentation of findings can be found _[here](https://public.tableau.com/app/profile/noah.manneville/viz/ClimateMaizeProject/ClimateMaize)_
